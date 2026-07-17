@@ -1,1 +1,1 @@
-# Q313789
+(https://quera.org/problemset/313789)
